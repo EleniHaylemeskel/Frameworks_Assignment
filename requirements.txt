@@ -1,0 +1,6 @@
+# Requirements file for the project
+pandas
+matplotlib
+seaborn
+streamlit
+wordcloud
