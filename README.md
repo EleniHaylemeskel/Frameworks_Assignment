@@ -24,9 +24,10 @@ This project explores the CORD-19 dataset of COVID-19 research papers. It includ
 
 ## How to Run
 
-1. py -m venv myenv
+1. Create a virtual environment (Windows CMD):
 
    ```bash
+   py -m venv myenv
    myenv\Scripts\activate.bat
    ```
 
