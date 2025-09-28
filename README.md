@@ -58,9 +58,9 @@ This project explores the CORD-19 dataset of COVID-19 research papers. It includ
 
       - PowerShell execution policy blocked activate.ps1; resolved by using activate.bat
 
-      -Pushing large files to GitHub failed; resolved by removing metadata.csv from history using git filter-repo
+      - Pushing large files to GitHub failed; resolved by removing metadata.csv from history using git filter-repo
 
-      -Configuring Git upstream branches and consolidating multiple folders
+      - Configuring Git upstream branches and consolidating multiple folders
 
 ### Lessons Learned
 
