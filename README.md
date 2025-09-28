@@ -41,7 +41,10 @@ This project explores the CORD-19 dataset of COVID-19 research papers. It includ
 
 4. Building a simple interactive web app with Streamlit
 
-5. Challenges included dealing with missing values and large dataset size, which I handled by filtering and using caching in Streamlit.
+5. Challenges included dealing with missing values and large dataset size, which I handled by removing the metadata.csv file from my workbench.
+
+6. I had a challeng on the git platform due to file size limit so I have to remove the metadata.csv file and also updaing my repo was a challeng due to some directories and I had cloned the repo but it did not workout, also I commit a change on an exsiting repo by mistake so I have to track back my actions.
+
 
 ## Dataset
 
