@@ -74,7 +74,7 @@ This project explores the CORD-19 dataset of COVID-19 research papers. It includ
 
       5. Track the correct upstream branch to avoid sync errors.
 
-### This experience strengthened problem-solving skills and deepened understanding of Python environments, version control, and working with large datasets.
+#### This experience strengthened problem-solving skills and deepened understanding of Python environments, version control, and working with large datasets.
 
 ## Dataset
 
